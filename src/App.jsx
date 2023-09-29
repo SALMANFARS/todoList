@@ -88,7 +88,7 @@ function App() {
 
   return (
     <>
-      <div className="todo bg-blue-900 border text-center w-[400px] m-auto py-[50px] my-[50px] rounded-lg ">
+      <div className="todo bg-blue-900 border text-center w-[400px] m-auto py-[50px] mt-[150px] rounded-lg ">
         <div className="h1Top">
           <h1 className="font-light text-[24px] text-blue-100 ">Todo List</h1>
         </div>
